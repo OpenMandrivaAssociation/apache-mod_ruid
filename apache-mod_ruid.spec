@@ -6,7 +6,7 @@
 Summary:	Mod_ruid is suexec module for apache 2.x, based on mod_suid2
 Name:		apache-%{mod_name}
 Version:	0.6
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		System/Servers
 License:	Apache License
 URL:		http://websupport.sk/~stanojr/projects/mod_ruid/
