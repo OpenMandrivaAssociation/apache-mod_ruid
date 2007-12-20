@@ -22,6 +22,7 @@ Requires:	apache >= 2.2.0
 BuildRequires:	apache-devel >= 2.2.0
 BuildRequires:	file
 BuildRequires:	libcap-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Mod_ruid is suexec module for apache 2.0, based on mod_suid2.
