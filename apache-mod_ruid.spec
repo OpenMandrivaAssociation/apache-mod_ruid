@@ -3,7 +3,7 @@
 %define mod_conf A89_%{mod_name}.conf
 %define mod_so %{mod_name}.so
 
-Summary:	Mod_ruid is suexec module for apache 2.x, based on mod_suid2
+Summary:	Suexec module for apache 2.x, based on mod_suid2
 Name:		apache-%{mod_name}
 Version:	0.6
 Release:	%mkrel 3
