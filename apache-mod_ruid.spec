@@ -9,7 +9,7 @@ Version:	0.6
 Release:	%mkrel 14
 Group:		System/Servers
 License:	Apache License
-URL:		http://websupport.sk/~stanojr/projects/mod_ruid/
+URL:		https://websupport.sk/~stanojr/projects/mod_ruid/
 Source0:	http://websupport.sk/~stanojr/projects/mod_ruid/mod_ruid-%{version}.tar.gz
 Source1:	README.%{mod_name}
 Source2:	%{mod_conf}
